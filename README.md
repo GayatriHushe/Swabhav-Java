@@ -277,6 +277,19 @@ Day 28 : 5/7/21
 		  - task3
 		      - login.html
 	
-
+Day 29 : 6/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Js-Classwork
+  - Programs :
+	  - Numbers API
+	      - task1
+		      - numbersApi_v1.html
+		  - task2
+		      - numbersApi_v2.html
+			  - numberApi2.js
+			  - moment.js
+	  - customer.js
+	  - questionPaper
+		  - questionPaper.html
+		  - questionPaper.js
 
 	  

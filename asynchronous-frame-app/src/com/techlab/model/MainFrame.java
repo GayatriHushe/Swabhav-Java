@@ -5,6 +5,7 @@ import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.Font;
+import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.LocalTime;
 
@@ -37,28 +38,28 @@ public class MainFrame extends JFrame{
 		c.add(printSyncBtn);
 		c.add(printAsyncBtn);
 
-		ActionListener a1=(ae)->{
-			System.out.println("Hello...");
-		};
-		helloBtn.addActionListener(a1);	
+		helloBtn.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				System.out.println("Hello...");
+			}
+		});	
 
-		ActionListener a2=(ae)->{
-			while(true)			
-				System.out.println(LocalTime.now());
-		};
-		printSyncBtn.addActionListener(a2);	
+		printSyncBtn.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				while(true)			
+					System.out.println("Sync : "+LocalTime.now());
+			}
+		});	
 
-		ActionListener a3=(ae)->{
-			new Thread(new Runnable() {
-				public void run() {
-					while (true) {
-						System.out.println(LocalTime.now());       
-					}   
-				}
-			}).start();
-
-		};
-		printAsyncBtn.addActionListener(a3);	
+		printAsyncBtn.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				Thread t1=new Thread(new AsyncRunnable());
+				t1.start();
+			}
+		});	
 
 		setTitle("Main Frame");
 		setLayout(new FlowLayout());
