@@ -377,4 +377,16 @@ Day 33 : 10/7/21
 	      - customFilter.html
 		  - customFilter.js
 	
-	  
+Day 34 : 12/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Classwork
+  - Programs :
+      - asyncService
+		  - asyncService.html
+	      - asyncService.js
+	  - numberApi
+		  - numberApi.html
+	      - numberApi.js
+	  - studentApi
+		  - studentApi.html
+	      - studentApi.js 
+	    
