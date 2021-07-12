@@ -287,9 +287,94 @@ Day 29 : 6/7/21
 		      - numbersApi_v2.html
 			  - numberApi2.js
 			  - moment.js
-	  - customer.js
 	  - questionPaper
 		  - questionPaper.html
 		  - questionPaper.js
 
+	
+Day 30 : 7/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Js-Classwork
+  - Programs :
+      - customerConstructorPattern.js
+	  - asyncPattern
+	      - asyncPattern1.js
+		  - asyncPattern2.js
+		  - asyncPattern3.js
+		  - asyncPattern4.js
+	  - modulePattern
+	      - modulePattern1.js
+		  - modulePattern2.js
+		  - modulePattern3.js
+      - employeeCsvHierarchy
+	      - employeeCsvHierarchy.html
+		  - employeeCsvHierarchy.js
+	  - prototypePattern.js
+	  - numberApiPromise
+	      - numberApiPromise.html
+		  - numberApiPromise.js
+	  - promiseChaining.js
+	  - webWorkerAsync
+		  - webWorkerAsync.html
+		  - webWorkerAsync.js
+		  - worker.js
+
+Day 31 : 8/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-jQuery
+  - Programs :
+      - index.html
+	  - welcome.html
+	  - buttonColorChange.html
+	  - callbackHellProblem
+		  - callbackHellProblem.js
+		  - callback_hell_pblm
+	  - studentService
+	      - studentservice.html
+		  - studentservice.js
+		  - jQuery.js
+	   
+Day 32 : 9/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Task-Management-Team
+  - Programs :
+      - moment.js
+	  - task4.html
+	  - task4.js 
+  
+Day 33 : 10/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Classwork
+  - Programs :
+      - index.html
+	  - expressions.html
+	  - module1
+		  - module1.html
+	      - module1.js
+		  - angular.js
+		  - minified
+		      - module1.html
+		      - module1Minified.js
+	  - module2
+		  - module2.html
+	      - module2.js
+	  - binding
+		  - binding.html
+	      - binding.js 
+	  - toDoList
+	      - index.html
+		  - index.js
+		  - moment.js
+	  - square
+	      - square.html
+	  - toggle
+	      - toggle.html
+		  - toggle.js
+		  - scenery.jpg
+	  - service
+	      - service.html
+		  - service.js
+	  - factory
+	      - factory.html
+		  - factory.js
+	  - customFilter
+	      - customFilter.html
+		  - customFilter.js
+	
 	  
