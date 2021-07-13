@@ -389,4 +389,28 @@ Day 34 : 12/7/21
 	  - studentApi
 		  - studentApi.html
 	      - studentApi.js 
-	    
+
+Day 35 : 13/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Classwork
+  - Programs :
+      - spaWiki
+		  - wiki.html
+	  - miniSPA
+		  - index.html
+	      - app.js
+		  - controller.js
+		  - templates
+		      - about.html
+			  - career.html
+			  - home.html
+	  - customDirective
+		  - customDirective.html
+	  - studentSpa
+		  - index.html
+	      - app.js
+		  - controller.js
+		  - templates
+		      - add.html
+			  - edit.html
+			  - home.html
+			  - search.html	    
