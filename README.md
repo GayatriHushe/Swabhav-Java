@@ -413,4 +413,22 @@ Day 35 : 13/7/21
 		      - add.html
 			  - edit.html
 			  - home.html
-			  - search.html	    
+			  - search.html	
+
+
+Day 36 : 14/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Classwork
+  - Programs :
+      - acmeSpa
+		  - index.html
+	      - app.js
+		  - controller.js
+		  - products.json
+		  - templates
+		      - home.html
+			  - product.html
+			  - productDetails.html
+			  - images
+			      - logo.jpg
+	      - images
+			  - logo.jpg			  
