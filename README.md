@@ -434,7 +434,7 @@ Day 36 : 14/7/21
 			  - logo.jpg		
 
 Day 37 : 15/7/21
-  - Files : 
+  - Files : https://github.com/GayatriHushe/Swabhav-JSP-Classwork
   - Programs :
 	  - index.html
 	  - welcome.jsp
@@ -442,3 +442,19 @@ Day 37 : 15/7/21
 	      - login.html
 		  - auth.jsp
       
+Day 38 : 17/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-JSP-Classwork
+  - Programs :
+	  - session
+	      - session.jsp
+		  - application.jsp
+		  - summary.jsp
+	  - Cookie
+	      - setCookie.jsp
+		  - getCookie.jsp
+      - boxing.jsp
+	  - unboxing.jsp
+	  
+Day 39 : 18/7/2021
+  - Files : 
+  - Programs : 
