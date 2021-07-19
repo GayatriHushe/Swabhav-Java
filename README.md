@@ -463,3 +463,8 @@ Day 39 : 18/7/2021
 	  - session-servlet-app
 	  - login-servlet-app
 	  - cookie-servlet-app
+	  
+Day 40 : 19/7/2021
+  - Files : https://github.com/GayatriHushe/Swabhav-Java-Servlet
+  - Programs : 
+      - beer-app
