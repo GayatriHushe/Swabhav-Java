@@ -506,3 +506,19 @@ Day 43 : 22/7/21
 		  - squareFunc.sql
 		  - storedProcedure.sql
 		  - trigger.sql
+		  
+Day 44 : 23/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Database-Mysql
+  - Databases :
+      - indexes
+	      - basic.sql
+	  - swabhav
+	      - emp1.sql
+	  - transaction
+	      - basic.sql
+  - Files : https://github.com/GayatriHushe/Swabhav-JDBC
+  - Programs :
+      - connection-app
+	      - ConnectTest
+		  - StatementTest
+		  - TransactionTest
