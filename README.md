@@ -472,7 +472,7 @@ Day 40 : 19/7/2021
 Day 41 : 20/7/2021
   - Files : https://github.com/GayatriHushe/Swabhav-Java-Servlet
   - Programs : 
-      - student-mvc-app
+      - student-mvc-app-without-jdbc
 	    
 Day 42 : 21/7/21
   - Files : https://github.com/GayatriHushe/Swabhav-Database-Mysql
@@ -522,3 +522,21 @@ Day 44 : 23/7/21
 	      - ConnectTest
 		  - StatementTest
 		  - TransactionTest
+		  
+Day 45 : 24/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Database-Mysql
+  - Databases
+      - student.sql
+  - Files : https://github.com/GayatriHushe/Swabhav-JDBC
+  - Programs :
+      - sqlinjection-app
+	      - InjectionTest
+		  - NoInjectionTest
+  - Files : https://github.com/GayatriHushe/Swabhav-Java-Servlet
+  - Programs : 
+      - student-mvc-app-with-jdbc
+	  - filter app
+	  - filter-chaining-app
+	  - listener-app
+	  - servlet-app
+			-> controllers -> ConnectionController
