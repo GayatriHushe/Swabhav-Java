@@ -540,3 +540,11 @@ Day 45 : 24/7/21
 	  - listener-app
 	  - servlet-app
 			-> controllers -> ConnectionController
+			
+Day 46 : 26/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java-Servlet
+  - Programs : 
+      - student-mvc-app-with-jdbc (Login Controller, Filter added along with session and logout button)
+  - Files : https://github.com/GayatriHushe/Swabhav-Gradle
+  - Programs : 
+	  - first-app
