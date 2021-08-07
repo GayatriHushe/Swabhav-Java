@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/javaclasswork_a/TIC TAC TOE GUI.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/gui-tic-tac-toe-app/TicTacToeDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=gui-tic-tac-toe-app/src&lt;com.techlab.presentation{GuiTest.java[GuiTest" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/gui-tic-tac-toe-app/.project"/>
+        <javaElement handleIdentifier="=gui-tic-tac-toe-app/src"/>
+        <file path="/gui-tic-tac-toe-app/.classpath"/>
+    </selectedElements>
+</jardesc>

@@ -572,11 +572,81 @@ Day 50 : 30/7/21
       - basic-spring-app
 	  - spring-struts-app
 	  - crud-spring-struts-app
-	  - Create action which will return json object -> Pending
-	  - struts using ajax calls(check for validation when tab) -> Pending
+	  - dept-spring-struts-app
+	  - student-json-app
 	  
 Day 51 : 31/7/21(Absent)
   - Files : https://github.com/GayatriHushe/Swabhav-Gradle
   - Programs : 
       - basic-hibernate-app
-	  - bank2-struts-app -> Pending
+	  - bank2-struts-app
+	  
+Day 52 : 2/8/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Gradle
+  - Programs :
+      - one-to-many-mapping-app
+	  - smtp-mail-app
+	  - struts-spring-hibernate-student-app
+	  
+Day 53 : 3/8/21
+  -Programs :
+      - TIC TAC TOE GUI.jar
+  - Files : https://github.com/GayatriHushe/Swabhav-Gradle
+  - Programs :
+      - shopping-hibernate-mapping-app
+	  - many-to-many-mapping-app
+	  - captcha app
+	  - spring-struts-hibernate-bank-app
+	  - interceptor-app
+	  
+Day 54 : 4/8/21
+  - Just Updates on assignments
+  
+  
+Day 55 : 5/8/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Typescript
+  - Programs :
+      - helloWorld
+	  - testTypes
+	  - testInterface
+	  - testClass
+	  - importClass
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Typescript
+  - Programs :
+      - welcome-app
+	  - welcome-expression-app
+	      - src/app
+		      - app.component.html
+			  - app.component.ts
+			  - app.module.ts
+		  - index.html	  
+		  
+Day 56 : 6/8/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Typescript
+  - Programs :
+      - welcome-expression-app
+	      - src/student
+			  - IStudent.ts
+			  - student.component.html
+			  - student.component.ts
+		  - assets
+		      - login_icon.jpg
+	  - welcome-expression-app
+	      - src/app/twowaybind
+			  - twowaybind.component.html
+			  - twowaybind.component.ts
+	  - welcome-expression-app
+		  - src/app/blue-ball
+		      - IBall.ts
+		      - blue-ball.html
+			  - blue-ball.ts
+			  
+Day 57 : 7/8/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Typescript
+  - Programs :
+      - welcome-expression-app
+		  - src/app/two-way-service
+		      - DataService.ts
+			  - two-way-service.html
+			  - two-way-service.ts
+	  - numbers-api-app 

@@ -18,7 +18,7 @@ import com.techlab.business.model.Player;
 public class MainFrame extends JFrame {
 	private Container c;
 	private JButton btnNext12;
-	private JLabel labelPlayerName1, labelPlayerName2;
+	private JLabel labelPlayerName1, labelPlayerName2,labelCopyright;
 	private JTextField txtName1,txtName2;
 	
 	private ArrayList<Player> players=new ArrayList<Player>();
@@ -50,12 +50,16 @@ public class MainFrame extends JFrame {
 		txtName2.setPreferredSize(new Dimension(100,40));
 		txtName2.setFont(new Font("Arial", Font.BOLD, 16));
 
+		labelCopyright=new JLabel("Created by Gayatri",JLabel.CENTER);
+//		labelCopyright.setBounds(MAXIMIZED_BOTH, MAXIMIZED_VERT, WIDTH, HEIGHT);
+		
 		c.add(labelPlayerName1);
 		c.add(txtName1);
 		c.add(labelPlayerName2);
 		c.add(txtName2);
-
+		
 		c.add(btnNext12);
+		c.add(labelCopyright);
 
 		ActionListener a1=(ae)->{
 			player1Name=txtName1.getText();
