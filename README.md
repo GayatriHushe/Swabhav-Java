@@ -1,5 +1,14 @@
-# Swabhav-Java-Classwork
--Files : https://github.com/GayatriHushe/Swabhav-Java
+
+Gayatri Hushe
+
+# Swabhav Classwork and Assignments 
+- Files : https://github.com/GayatriHushe/Swabhav-Java
+
+Other Files : 
+  - Other Files :
+      - Head First : https://github.com/GayatriHushe/Swabhav-Head-First-Assignments
+      - Head First Ooad : https://github.com/GayatriHushe/Swabhav-Head-First-OOAD
+	  - Javascript Book : https://github.com/GayatriHushe/Swabhav-javascript
 
 Day 1 : 6/3/21
   - Version Control
@@ -8,6 +17,7 @@ Day 1 : 6/3/21
   - Files : https://github.com/GayatriHushe/swabhav-first-day.git
   
 Day 2 : 13/3/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Gitignore.io
   - Class Diagrams
   - Eclipse IDE
@@ -17,6 +27,7 @@ Day 2 : 13/3/21
       - guess-app
       
 Day 3 : 20/3/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - pigdice-app
       - rectangle-app
@@ -25,6 +36,7 @@ Day 3 : 20/3/21
       - rectangle4-app
       
 Day 4 : 27/3/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - rectangle-constructor
       - this-point-app
@@ -32,6 +44,7 @@ Day 4 : 27/3/21
       - circle-app
 
 Day 5 : 3/4/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - account-app
       - account-counter-app
@@ -42,6 +55,7 @@ Day 5 : 3/4/21
       - employee-programmer-app
       
 Day 6 : 10/4/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - account-inheritance-app
       - crudable-app
@@ -49,6 +63,7 @@ Day 6 : 10/4/21
       - emotionable-socialization-app      
       
 Day 7 : 17/4/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Asssessment I
   - Programs :
       - has-a-app
@@ -58,6 +73,7 @@ Day 7 : 17/4/21
       - main-from-main
       
 Day 8 : 24/4/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - exception-propagation-app
       - exception-propagation-app2
@@ -69,6 +85,7 @@ Day 8 : 24/4/21
       - file-basic-app
       
 Day 9 : 1/5/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - collection-operator-app
       - collection-app
@@ -76,6 +93,7 @@ Day 9 : 1/5/21
       - csv-file-app
       
 Day 10 : 15/5/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - collection-operation-app
           -> student related files
@@ -88,6 +106,7 @@ Day 10 : 15/5/21
           -> my-old-shopping-app
           
 Day 11 : 23/5/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - srp-violation-app
       - srp-solution-app
@@ -95,6 +114,7 @@ Day 11 : 23/5/21
       - ocp-solution-app
       
 Day 12 : 29/5/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - lsp-violation-app
       - lsp-solution-app
@@ -105,6 +125,7 @@ Day 12 : 29/5/21
       - dsp-solution-app
 
 Day 13 : 5/6/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - simple-reflection-app
       - custom-annotation-app
@@ -112,6 +133,7 @@ Day 13 : 5/6/21
       - shopping-unit-test-app
 	  
 Day 14 : 12/6/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
       - tic-tac-toe-app
 
@@ -142,7 +164,7 @@ Day 17 : 19/6/21
 	  - chain-of-responsibility-pattern-app
 	  - http-chain-of-responsibility-pattern-app
 
-Day 19 : 21/6/21
+Day 18 : 21/6/21
   - Files : https://github.com/GayatriHushe/Swabhav-Java-Design-Pattern.git
   - Programs :
       - node-generic-app
@@ -161,13 +183,10 @@ Day 19 : 22/6/21
 	  - colorPicker2.html
 	  - colorPicker3.html
 	  - colorPicker4.html
-	  
-Day 19 : 22/6/21
-  - Files : https://github.com/GayatriHushe/Swabhav-Java-Design-Pattern.git
-  - Programs :
-	  - node-generic-app	  
+	    
 
 Day 20 : 23/6/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs : 
 	  - csv-file-operation-score-cgpa-app
 	  - swing-background-change-app	
@@ -177,6 +196,7 @@ Day 20 : 23/6/21
 	  - strategy-pattern-app
 	
 Day 21 : 26/6/21 => Absent
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs : 
 	  - account-transaction-log-app
 	  - employee-data-transaction-app
@@ -185,6 +205,7 @@ Day 21 : 26/6/21 => Absent
 	  - html-composite-pattern-app
 	  
 Day 22 : 28/6/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs : 
 	  - gui-tic-tac-toe-app
   - Files : https://github.com/GayatriHushe/Swabhav-Java-Design-Pattern.git
@@ -252,6 +273,7 @@ Day 26 : 2/7/21
 	   
 	  
 Day 27 : 3/7/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
   - Programs :
 	  - asynchronous-frame-app
 	  - student-callback-comparator-app
@@ -590,7 +612,8 @@ Day 52 : 2/8/21
 	  - struts-spring-hibernate-student-app
 	  
 Day 53 : 3/8/21
-  -Programs :
+  - Files : https://github.com/GayatriHushe/Swabhav-Java
+  - Programs :
       - TIC TAC TOE GUI.jar
   - Files : https://github.com/GayatriHushe/Swabhav-Gradle
   - Programs :
@@ -650,4 +673,4 @@ Day 57 : 7/8/21
 		      - DataService.ts
 			  - two-way-service.html
 			  - two-way-service.ts
-	  - numbers-api-app 
+	  - numbersApi-app
