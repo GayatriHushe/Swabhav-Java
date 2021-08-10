@@ -674,3 +674,22 @@ Day 57 : 7/8/21
 			  - two-way-service.html
 			  - two-way-service.ts
 	  - numbersApi-app
+	  
+Day 58 : 9/8/21
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Typescript
+  - Programs :
+      - welcome-expression-app
+		  - src/app/two-way-service
+		      - DataService.ts
+			  - two-way-service.html
+			  - two-way-service.ts
+		  - src/app
+		      - moduleA.ts
+			  - moduleB.ts
+			  - moduleA.component.ts
+			  - moduleB.component.ts
+			  - app.module.ts
+  - Files : https://github.com/GayatriHushe/Swabhav-Angular-Typescript-2
+  - Programs :
+      - mini-spa-app
+	  - route-guard-app
