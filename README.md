@@ -700,5 +700,5 @@ Day 59 : 10/8/21
       - form-validation-app => Reactive
 	  - welcome2-app
 	  - template-form-validation-app
-	  - student-api -> Pending
-	  - acme-app -> Pending
+	  - student-app
+	  - acme-app 
